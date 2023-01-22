@@ -3,6 +3,7 @@
 
 ## 🎓 I'm a Frontend Engineer, currently learning frontend technologies with nextgendev.tech | ![](https://hit.yhype.me/github/profile?user_id=91013960)
 <img align="right" alt="GIF" src="https://c.tenor.com/2uyENRmiUt0AAAAC/coding.gif" width="385" height="290" />
+<a target="_blank"><img src="https://visitor-badge.glitch.me/badge?page_id=OSAMA478.OSAMA478" alt="Vistor Badge"></a>
 
 - 🔭 I am currently working on React and TypeScript.
 
@@ -17,6 +18,8 @@
 - ⚡ Fun fact **I love travelling to new places**
 
 - 📝 [Resume](https://)
+
+- 💻 [Portfolio](https://osama-portfolio-78057.web.app/home)
 
 ## :email: Find me on:  
 <p align="left">
@@ -34,7 +37,11 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" />
-<img align="left" style="  alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
+<img align="left"  alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/git/git.png" />
 <img align="left"  alt="firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/firebase/firebase.png" />
 
 <br>
+
+<p align="center" >
+<img  height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OSAMA478&theme=onedark" alt="OSAMA478" />
+</p>
