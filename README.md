@@ -19,7 +19,7 @@
 
 - 📝 [Resume](https://)
 
-- 💻 [Portfolio](https://osama-portfolio-78057.web.app/home)
+- 💻 [Portfolio](https://osama-cv.vercel.app/)
 
 ## :email: Find me on:  
 <p align="left">
